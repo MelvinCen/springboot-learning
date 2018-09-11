@@ -1,0 +1,10 @@
+rootProject.name = 'springboot-learning'
+include 'multi-envir'
+include 'springboot-thymeleaf'
+include 'springboot-jdbctemplate'
+include 'springboot-data-jpa'
+include 'springboot-mybatis'
+include 'springboot-mybatis-plugin'
+include 'springboot-redis-lettuce'
+include 'springboot-swagger'
+

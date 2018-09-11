@@ -1,0 +1,16 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test2?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&useSSL=false
+    username: root
+    password: 63692234
+
+server:
+  port: 8080
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: cn.melvin.domain
+  configuration:
+    map-underscore-to-camel-case: true
+
