@@ -27,6 +27,6 @@ repositories {
 dependencies {
     testCompile('org.springframework.boot:spring-boot-starter-test')
     compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.0.4.RELEASE'
-    compile group: 'com.battcn', name: 'swagger-spring-boot-starter', version: '1.4.5-RELEASE'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-amqp', version: '2.0.4.RELEASE'
 }
 

@@ -1,0 +1,8 @@
+spring:
+  swagger:
+    base-package: cn.melvin
+    enabled: true
+
+
+
+

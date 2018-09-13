@@ -1,0 +1,15 @@
+spring:
+  thymeleaf:
+    cache: false
+  servlet:
+    multipart:
+      enabled: true
+      location:
+      max-file-size: 1048576
+      max-request-size: 10485760
+      file-size-threshold: 0
+      resolve-lazily: false
+
+
+
+

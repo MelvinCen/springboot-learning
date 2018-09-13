@@ -7,4 +7,7 @@ include 'springboot-mybatis'
 include 'springboot-mybatis-plugin'
 include 'springboot-redis-lettuce'
 include 'springboot-swagger'
+include 'springboot-rabbitmq'
+include 'springboot-task'
+include 'springboot-upload'
 
