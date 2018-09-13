@@ -10,4 +10,6 @@ include 'springboot-swagger'
 include 'springboot-rabbitmq'
 include 'springboot-task'
 include 'springboot-upload'
+include 'springboot-exception'
+include 'springboot-validation1'
 
